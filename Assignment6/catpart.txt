@@ -1,0 +1,59 @@
+# File
+	Size:
+		Empty.                  		[property fileIsEmpty]
+		Not Empty.
+	Number of the occurencences of the file in the directory:
+        None.                   		[single][property directoryIsEmpty][if !directoryIsEmpty][property noOccurences]
+        One.                    		[single] [if !directoryIsEmpty]
+        Many.                   		[if !directoryIsEmpty]	
+	Position of the file in the directory:
+		First line.             		[if !directoryIsEmpty && !noOccurences]
+        Last line.              		[if !directoryIsEmpty && !noOccurences]
+        Any line.               		[if !directoryIsEmpty && !noOccurences]	
+		Present.
+	Number of files provided:
+        Zero.                   		[error] [property zeroFiles]
+        One.                    		[single] 
+        Multiple.
+	Presence of a file corresponding to the filename:
+		Not present.		
+		Present.
+	
+# Pattern
+	File Pattern:
+		Empty.							[property emptypattern]			
+		More than one.					[property patternfile1]	
+		Too Many.
+	Presence of Pattern within the Filename:
+		None.
+		One.							[if !emptypattern]
+		Many.							[single][if !emptypattern && patternfile1]
+		
+# OPT
+	Number of command line arguments and options:
+        Zero.                  		 	[single][property emptyOPT]
+        More than one.
+	command line argument for -b:
+        -b was entered          		[if !emptyOPT]
+        -b was not entered      		[if !emptyOPT]
+
+	command line argument for -f:
+        -f was entered          		[if !emptyOPT && lastOccurence][property firstOccurence] 
+        -f was not entered      		[if !emptyOPT]
+        
+	command line argument for -r:
+        -r was entered          		[if !emptyOPT && !firstOccurence][property lastOccurence]
+        -r was not entered      		[if !emptyOPT]
+        
+	command line argument for -v:
+        -v was entered          		[if !emptyOPT]
+        -v was not entered      		[if !emptyOPT]
+
+# Copy
+	Directory/File Existence:
+        True.                   		[single] [if !zeroFiles][property validSource]
+        False.                  		[error][if !zeroFiles]
+		More than one.
+	Location:
+		LocationExist.					[single][property validDirectory]
+		LocationNotExist.				[error]

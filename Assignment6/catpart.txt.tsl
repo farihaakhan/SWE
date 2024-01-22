@@ -1,0 +1,1080 @@
+
+Test Case 1  		<single>
+   Number of the occurencences of the file in the directory :  None
+
+
+Test Case 2  		<single>
+   Number of the occurencences of the file in the directory :  One
+
+
+Test Case 3  		<error>
+   Number of files provided :  Zero
+
+
+Test Case 4  		<single>
+   Number of files provided :  One
+
+
+Test Case 5  		<single>
+   Presence of Pattern within the Filename :  Many
+
+
+Test Case 6  		<single>
+   Number of command line arguments and options :  Zero
+
+
+Test Case 7  		<single>
+   Directory/File Existence :  True
+
+
+Test Case 8  		<error>
+   Directory/File Existence :  False
+
+
+Test Case 9  		<single>
+   Location :  LocationExist
+
+
+Test Case 10 		<error>
+   Location :  LocationNotExist
+
+
+Test Case 11 		(Key = 1.3.1.3.1.1.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 12 		(Key = 1.3.1.3.1.2.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 13 		(Key = 1.3.1.3.1.2.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 14 		(Key = 1.3.1.3.1.3.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 15 		(Key = 1.3.1.3.1.3.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 16 		(Key = 1.3.1.3.2.1.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 17 		(Key = 1.3.1.3.2.2.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 18 		(Key = 1.3.1.3.2.2.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 19 		(Key = 1.3.1.3.2.3.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 20 		(Key = 1.3.1.3.2.3.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 21 		(Key = 1.3.2.3.1.1.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 22 		(Key = 1.3.2.3.1.2.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 23 		(Key = 1.3.2.3.1.2.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 24 		(Key = 1.3.2.3.1.3.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 25 		(Key = 1.3.2.3.1.3.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 26 		(Key = 1.3.2.3.2.1.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 27 		(Key = 1.3.2.3.2.2.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 28 		(Key = 1.3.2.3.2.2.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 29 		(Key = 1.3.2.3.2.3.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 30 		(Key = 1.3.2.3.2.3.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 31 		(Key = 1.3.3.3.1.1.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 32 		(Key = 1.3.3.3.1.2.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 33 		(Key = 1.3.3.3.1.2.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 34 		(Key = 1.3.3.3.1.3.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 35 		(Key = 1.3.3.3.1.3.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 36 		(Key = 1.3.3.3.2.1.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 37 		(Key = 1.3.3.3.2.2.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 38 		(Key = 1.3.3.3.2.2.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 39 		(Key = 1.3.3.3.2.3.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 40 		(Key = 1.3.3.3.2.3.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 41 		(Key = 1.3.4.3.1.1.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 42 		(Key = 1.3.4.3.1.2.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 43 		(Key = 1.3.4.3.1.2.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 44 		(Key = 1.3.4.3.1.3.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 45 		(Key = 1.3.4.3.1.3.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 46 		(Key = 1.3.4.3.2.1.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 47 		(Key = 1.3.4.3.2.2.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 48 		(Key = 1.3.4.3.2.2.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 49 		(Key = 1.3.4.3.2.3.1.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 50 		(Key = 1.3.4.3.2.3.2.2.3.0.)
+   Size                                                     :  Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 51 		(Key = 2.3.1.3.1.1.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 52 		(Key = 2.3.1.3.1.2.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 53 		(Key = 2.3.1.3.1.2.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 54 		(Key = 2.3.1.3.1.3.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 55 		(Key = 2.3.1.3.1.3.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 56 		(Key = 2.3.1.3.2.1.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 57 		(Key = 2.3.1.3.2.2.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 58 		(Key = 2.3.1.3.2.2.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 59 		(Key = 2.3.1.3.2.3.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 60 		(Key = 2.3.1.3.2.3.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  First line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 61 		(Key = 2.3.2.3.1.1.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 62 		(Key = 2.3.2.3.1.2.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 63 		(Key = 2.3.2.3.1.2.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 64 		(Key = 2.3.2.3.1.3.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 65 		(Key = 2.3.2.3.1.3.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 66 		(Key = 2.3.2.3.2.1.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 67 		(Key = 2.3.2.3.2.2.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 68 		(Key = 2.3.2.3.2.2.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 69 		(Key = 2.3.2.3.2.3.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 70 		(Key = 2.3.2.3.2.3.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Last line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 71 		(Key = 2.3.3.3.1.1.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 72 		(Key = 2.3.3.3.1.2.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 73 		(Key = 2.3.3.3.1.2.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 74 		(Key = 2.3.3.3.1.3.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 75 		(Key = 2.3.3.3.1.3.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 76 		(Key = 2.3.3.3.2.1.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 77 		(Key = 2.3.3.3.2.2.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 78 		(Key = 2.3.3.3.2.2.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 79 		(Key = 2.3.3.3.2.3.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 80 		(Key = 2.3.3.3.2.3.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Any line
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 81 		(Key = 2.3.4.3.1.1.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 82 		(Key = 2.3.4.3.1.2.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 83 		(Key = 2.3.4.3.1.2.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 84 		(Key = 2.3.4.3.1.3.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 85 		(Key = 2.3.4.3.1.3.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Not present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 86 		(Key = 2.3.4.3.2.1.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Empty
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 87 		(Key = 2.3.4.3.2.2.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 88 		(Key = 2.3.4.3.2.2.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  More than one
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 89 		(Key = 2.3.4.3.2.3.1.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  None
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
+
+Test Case 90 		(Key = 2.3.4.3.2.3.2.2.3.0.)
+   Size                                                     :  Not Empty
+   Number of the occurencences of the file in the directory :  Many
+   Position of the file in the directory                    :  Present
+   Number of files provided                                 :  Multiple
+   Presence of a file corresponding to the filename         :  Present
+   File Pattern                                             :  Too Many
+   Presence of Pattern within the Filename                  :  One
+   Number of command line arguments and options             :  More than one
+   Directory/File Existence                                 :  More than one
+   Location                                                 :  <n/a>
+
